@@ -1,2 +1,2 @@
-# FishBasse
+# FishBase
 Freshwater Aquarium Fish Database
